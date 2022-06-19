@@ -13,3 +13,8 @@ https://www.ahmedbesbes.com/blog/acl-tear-detection-part-1
 https://www.ahmedbesbes.com/blog/acl-tear-detection-part-2
 https://www.ahmedbesbes.com/blog/acl-tear-detection-part-3
 
+
+https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design -- SOLID principles
+
+https://refactoring.guru/design-patterns -- Design Patterns
+
