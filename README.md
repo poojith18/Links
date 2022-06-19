@@ -18,3 +18,4 @@ https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-f
 
 https://refactoring.guru/design-patterns -- Design Patterns
 
+https://codebase.show/projects/realworld?category=backend -- Web development
